@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'am [Liwei](http://www.emacsvi.com) 👋
 
 <!--
 **liweilijie/liweilijie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on blockchain.
+- 🌱 I’m currently learning rust.
+- 🤔 I’m looking for help with rust.
+- 💬 Ask me about ...
+- 📫 How to reach me: liweilijie@gmail.com
+
+<img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=liweilijie&show_icons=true&include_all_commits=true&theme=material-palenight" alt="liwei's github stats" />
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=liweilijie.liweilijie" alt="visitor badge"/>
