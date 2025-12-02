@@ -1,4 +1,4 @@
-### Hi there, I'am [Liwei](http://www.emacsvi.com) 👋
+### Hi there, I'am [Liwei](https://www.carrygoing.com) 👋
 
 <!--
 **liweilijie/liweilijie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
